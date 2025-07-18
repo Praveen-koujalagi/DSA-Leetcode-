@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Heap (Priority Queue)
@@ -51,8 +52,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
