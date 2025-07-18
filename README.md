@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
