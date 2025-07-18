@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
