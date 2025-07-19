@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1983-maximum-population-year](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1983-maximum-population-year) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Dynamic Programming
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
+## Counting
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1983-maximum-population-year) |
+## Prefix Sum
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
