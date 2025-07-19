@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0190-reverse-bits) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
