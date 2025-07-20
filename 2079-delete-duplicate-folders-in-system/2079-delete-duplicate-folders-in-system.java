@@ -1,85 +1,64 @@
 class Solution {
+    class Node {
+        Map<String, Node> subNodes = new TreeMap<>();
 
-    // Trie Node Definition
-    static class TrieNode {
-        Map<String, TrieNode> children = new HashMap<>();
-        String name;
-        String serial = "";
-        boolean toDelete = false;
+        String content = "";
 
-        TrieNode(String name) {
-            this.name = name;
-        }
-    }
+        boolean remove = false;
 
-    // Root of the Trie
-    TrieNode root = new TrieNode("");
-
-    // Map to detect duplicate subtrees
-    Map<String, Integer> freqMap = new HashMap<>();
-
-    // Step 1: Build the Trie from paths
-    public void insert(String[] path) {
-        TrieNode node = root;
-        for (String folder : path) {
-            node.children.putIfAbsent(folder, new TrieNode(folder));
-            node = node.children.get(folder);
-        }
-    }
-
-    // Step 2: Serialize each subtree (Post-order DFS)
-    private String serialize(TrieNode node) {
-        if (node.children.isEmpty()) return "";
-
-        // Sort children to ensure consistent serialization order
-        List<String> keys = new ArrayList<>(node.children.keySet());
-        Collections.sort(keys);
-
-        StringBuilder sb = new StringBuilder();
-        for (String key : keys) {
-            TrieNode child = node.children.get(key);
-            sb.append("(").append(key).append(serialize(child)).append(")");
-        }
-
-        node.serial = sb.toString();
-        freqMap.put(node.serial, freqMap.getOrDefault(node.serial, 0) + 1);
-        return node.serial;
-    }
-
-    // Step 3: Mark nodes to delete if duplicate
-    private void markDuplicates(TrieNode node) {
-        if (freqMap.getOrDefault(node.serial, 0) > 1) {
-            node.toDelete = true;
-        }
-        for (TrieNode child : node.children.values()) {
-            markDuplicates(child);
-        }
-    }
-
-    // Step 4: Collect valid paths from non-deleted nodes
-    private void collectPaths(TrieNode node, List<String> path, List<List<String>> result) {
-        for (Map.Entry<String, TrieNode> entry : node.children.entrySet()) {
-            TrieNode child = entry.getValue();
-            if (!child.toDelete) {
-                path.add(child.name);
-                result.add(new ArrayList<>(path));
-                collectPaths(child, path, result);
-                path.remove(path.size() - 1);
+        void markRemove() {
+            if (remove) {
+                return;
+            }
+            remove = true;
+            if (subNodes != null) {
+                for (Node value : subNodes.values()) {
+                    value.markRemove();
+                }
             }
         }
     }
 
     public List<List<String>> deleteDuplicateFolder(List<List<String>> paths) {
-        // Build Trie from input paths
-        for (List<String> path : paths) {
-            insert(path.toArray(new String[0])); // ✅ Array used here
+        paths.sort(Comparator.comparingInt(List::size));
+        List<Node> nodes = new ArrayList<>(paths.size());
+        Node rootNode = new Node();
+        for (List<String> pathList : paths) {
+            Node current = rootNode;
+            int last = pathList.size() - 1;
+            for (int i = 0; i < last; i++) {
+                String s = pathList.get(i);
+                current = current.subNodes.get(s);
+            }
+            String name = pathList.get(last);
+            Node node = new Node();
+            current.subNodes.put(name, node);
+            nodes.add(node);
         }
-
-        serialize(root);           // ✅ Serialization = String + Hash Function
-        markDuplicates(root);      // ✅ Hash Table used here
-        List<List<String>> result = new ArrayList<>();
-        collectPaths(root, new ArrayList<>(), result); // ✅ Array used again
-
-        return result;
+        StringBuilder content = new StringBuilder();
+        Map<String, Node> nodeByContent = new HashMap<>();
+        for (int i = nodes.size() - 1; i >= 0; i--) {
+            Node node = nodes.get(i);
+            if (node.subNodes.isEmpty()) {
+                continue;
+            }
+            for (Map.Entry<String, Node> entry : node.subNodes.entrySet()) {
+                content.append(entry.getKey()).append('{').append(entry.getValue().content).append('}');
+            }
+            node.content = content.toString();
+            content.delete(0, content.length());
+            Node similar = nodeByContent.putIfAbsent(node.content, node);
+            if (similar != null) {
+                node.markRemove();
+                similar.markRemove();
+            }
+        }
+        List<List<String>> ans = new ArrayList<>();
+        for (int i = 0; i < paths.size(); i++) {
+            if (!nodes.get(i).remove) {
+                ans.add(paths.get(i));
+            }
+        }
+        return ans;
     }
 }
