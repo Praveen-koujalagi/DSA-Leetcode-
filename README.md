@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1983-maximum-population-year](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1983-maximum-population-year) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1894-merge-strings-alternately](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1894-merge-strings-alternately) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0605-can-place-flowers) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
