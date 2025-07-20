@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
