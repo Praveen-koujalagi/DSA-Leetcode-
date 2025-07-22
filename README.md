@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1813-maximum-erasure-value](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1983-maximum-population-year](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1983-maximum-population-year) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
+| [1813-maximum-erasure-value](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Bit Manipulation
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
+| [1813-maximum-erasure-value](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1813-maximum-erasure-value) |
 ## Counting
 |  |
 | ------- |
