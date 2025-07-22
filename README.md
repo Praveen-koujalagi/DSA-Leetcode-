@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
