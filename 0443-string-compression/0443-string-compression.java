@@ -1,7 +1,7 @@
 class Solution {
     public int compress(char[] chars) {
-        int index = 0; // pointer to write the result
-        int i = 0;     // pointer to read the input
+        int index = 0; 
+        int i = 0;     
 
         while (i < chars.length) {
             char currentChar = chars[i];
