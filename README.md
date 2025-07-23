@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1894-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Recursion
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0605-can-place-flowers) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Hash Function
 |  |
 | ------- |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
