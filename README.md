@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [1983-maximum-population-year](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1983-maximum-population-year) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
