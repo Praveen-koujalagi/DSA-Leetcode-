@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1983-maximum-population-year](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1983-maximum-population-year) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
