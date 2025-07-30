@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [1813-maximum-erasure-value](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Counting
