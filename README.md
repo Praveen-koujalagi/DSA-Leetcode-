@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0416-partition-equal-subset-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
