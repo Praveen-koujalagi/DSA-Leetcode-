@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2689-rearranging-fruits) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2689-rearranging-fruits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2689-rearranging-fruits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0605-can-place-flowers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2689-rearranging-fruits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Function
 |  |
