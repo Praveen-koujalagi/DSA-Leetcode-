@@ -216,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
