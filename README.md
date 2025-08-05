@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -229,4 +232,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-clumsy-factorial](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1048-clumsy-factorial) |
+| [3790-fruits-into-baskets-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
