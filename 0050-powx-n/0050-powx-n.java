@@ -1,9 +1,8 @@
 class Solution {
     public double myPow(double x, int n) {
-        // Convert n to long to avoid overflow when n == Integer.MIN_VALUE
         long N = n;
 
-        // Handle negative power
+        
         if (N < 0) {
             x = 1 / x;
             N = -N;
