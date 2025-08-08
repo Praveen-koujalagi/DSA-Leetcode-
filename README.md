@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0416-partition-equal-subset-sum) |
+| [0826-soup-servings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
+| [0826-soup-servings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1048-clumsy-factorial) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
