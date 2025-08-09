@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1048-clumsy-factorial) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
