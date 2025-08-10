@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
+| [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0940-fruit-into-baskets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1813-maximum-erasure-value) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
+| [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2689-rearranging-fruits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1048-clumsy-factorial) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [1983-maximum-population-year](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1983-maximum-population-year) |
 ## Prefix Sum
 |  |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
