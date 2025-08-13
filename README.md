@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
