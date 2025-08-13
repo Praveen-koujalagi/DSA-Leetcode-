@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1361-tiling-a-rectangle-with-the-fewest-squares](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1361-tiling-a-rectangle-with-the-fewest-squares) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
