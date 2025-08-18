@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0679-24-game) |
+| [0907-koko-eating-bananas](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0374-guess-number-higher-or-lower) |
+| [0907-koko-eating-bananas](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2392-successful-pairs-of-spells-and-potions) |
