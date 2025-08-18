@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
+| [0679-24-game](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1046-max-consecutive-ones-iii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0900-reordered-power-of-2) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0679-24-game) |
 | [1361-tiling-a-rectangle-with-the-fewest-squares](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1361-tiling-a-rectangle-with-the-fewest-squares) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
