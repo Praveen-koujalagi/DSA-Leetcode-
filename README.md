@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0416-partition-equal-subset-sum) |
 | [0826-soup-servings](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0826-soup-servings) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
