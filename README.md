@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0189-rotate-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0338-counting-bits) |
