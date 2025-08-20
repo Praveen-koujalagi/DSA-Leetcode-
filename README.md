@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Praveen-koujalagi/DSA-Leetcode-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
